@@ -33,3 +33,5 @@ jobs:
         git add data/translated_feeds.json
         git commit -m "Update translated feeds" || exit 0
         git push
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
