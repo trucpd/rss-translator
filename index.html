@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>RSS Translator</title>
+    <link rel="stylesheet" href="static/css/style.css">
+</head>
+<body>
+    <header>
+        <h1>RSS Translator</h1>
+        <p id="last-updated">Last updated: <span id="update-time">Loading...</span></p>
+    </header>
+    
+    <main>
+        <div class="filters">
+            <label for="source-filter">Filter by source:</label>
+            <select id="source-filter">
+                <option value="all">All Sources</option>
+            </select>
+        </div>
+        
+        <div id="entries-container">
+            <p id="loading">Loading feeds...</p>
+        </div>
+    </main>
+    
+    <footer>
+        <p>Powered by RSS Translator | Data refreshes daily</p>
+    </footer>
+    
+    <script src="static/js/main.js"></script>
+</body>
+</html>

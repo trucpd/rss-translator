@@ -1,0 +1,15 @@
+{
+  "feeds": [
+    {
+        "name": "Kubernetes Blog",
+        "url": "https://kubernetes.io/feed.xml",
+        "language": "en"
+    }
+  ],
+  "translation": {
+    "service": "google", 
+    "target_language": "en",
+    "openai_api_key": "", 
+    "fields_to_translate": ["title", "summary"]
+  }
+}
