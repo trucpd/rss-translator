@@ -38,10 +38,10 @@ jobs:
 
       - name: Commit and push changes
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
         run: |
           git config --global user.name 'github-actions'
           git config --global user.email 'github-actions@github.com'
           git add data/translated_feeds.json
           git diff --staged --quiet || git commit -m "Update translated feeds"
-          git push https://x-access-token:${GITHUB_TOKEN}@github.com/trucpd/rss-translator.git
+          git push https://x-access-token:$GH_TOKEN}@github.com/trucpd/rss-translator.git
