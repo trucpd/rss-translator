@@ -524,7 +524,7 @@
       "name": "KubeDB Blog",
       "url": "https://kubedb.com/blog/feed.xml",
       "language": "en"
-    },
+    }
   ],
   "translation": {
     "service": "google",
