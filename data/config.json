@@ -96,7 +96,7 @@
       "language": "en"
     },
     {
-      "name": "Medium’s Kubernetes Tag",
+      "name": "Medium's Kubernetes Tag",
       "url": "https://medium.com/tag/kubernetes/feed",
       "language": "en"
     },
@@ -378,6 +378,56 @@
     {
       "name": "OPA (Open Policy Agent) Blog",
       "url": "https://www.openpolicyagent.org/blog/rss.xml",
+      "language": "en"
+    },
+    {
+      "name": "Kubernetes Community Blog",
+      "url": "https://kubernetes.io/blog/feed.xml",
+      "language": "en"
+    },
+    {
+      "name": "Microsoft AKS Blog",
+      "url": "https://techcommunity.microsoft.com/t5/azure-kubernetes-service-aks/bg-p/AKS-Blog/rss",
+      "language": "en"
+    },
+    {
+      "name": "AWS EKS Workshop Blog",
+      "url": "https://www.eksworkshop.com/feed.xml",
+      "language": "en"
+    },
+    {
+      "name": "Kubecost Blog",
+      "url": "https://kubecost.com/blog/rss.xml",
+      "language": "en"
+    },
+    {
+      "name": "Kuberenetes Jobs",
+      "url": "https://kube.careers/rss",
+      "language": "en"
+    },
+    {
+      "name": "Kubernetes Training Blog",
+      "url": "https://training.linuxfoundation.org/blog/rss/",
+      "language": "en"
+    },
+    {
+      "name": "Kubelet Blog",
+      "url": "https://kubernetes.io/docs/concepts/architecture/kubelet/feed.xml",
+      "language": "en"
+    },
+    {
+      "name": "Kubernetes Security Specialist",
+      "url": "https://kubernetes-security.info/feed.xml",
+      "language": "en"
+    },
+    {
+      "name": "Kubernetes.io Documentation",
+      "url": "https://kubernetes.io/docs/feed.xml",
+      "language": "en"
+    },
+    {
+      "name": "Cloud Native Security Hub",
+      "url": "https://cloud-native-security-hub.github.io/feed.xml",
       "language": "en"
     }
   ],
