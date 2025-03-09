@@ -429,7 +429,102 @@
       "name": "Cloud Native Security Hub",
       "url": "https://cloud-native-security-hub.github.io/feed.xml",
       "language": "en"
-    }
+    },
+    {
+      "name": "Kubernetes Tutorials Blog",
+      "url": "https://k8s-tutorials.com/feed.xml",
+      "language": "en"
+    },
+    {
+      "name": "Operator Framework Blog",
+      "url": "https://operatorframework.io/blog/feed.xml",
+      "language": "en"
+    },
+    {
+      "name": "Kubernetes CNI Blog",
+      "url": "https://www.cni.dev/blog/feed.xml",
+      "language": "en"
+    },
+    {
+      "name": "Pulumi Kubernetes Blog",
+      "url": "https://www.pulumi.com/blog/tag/kubernetes/rss.xml",
+      "language": "en"
+    },
+    {
+      "name": "Kubernetes Backup Solutions",
+      "url": "https://k8s-backup.io/feed",
+      "language": "en"
+    },
+    {
+      "name": "Kubernetes Policy Working Group",
+      "url": "https://kubernetes.io/blog/tags/wg-policy/feed.xml",
+      "language": "en"
+    },
+    {
+      "name": "Kubernetes Multitenancy Blog",
+      "url": "https://kubernetes.io/blog/tags/multi-tenancy/feed.xml",
+      "language": "en"
+    },
+    {
+      "name": "Kubernetes SIG Architecture",
+      "url": "https://kubernetes.io/blog/tags/sig-architecture/feed.xml",
+      "language": "en"
+    },
+    {
+      "name": "Kubernetes SIG Network",
+      "url": "https://kubernetes.io/blog/tags/sig-network/feed.xml",
+      "language": "en"
+    },
+    {
+      "name": "Kubernetes SIG Storage",
+      "url": "https://kubernetes.io/blog/tags/sig-storage/feed.xml",
+      "language": "en"
+    },
+    {
+      "name": "Kubernetes SIG Auth",
+      "url": "https://kubernetes.io/blog/tags/sig-auth/feed.xml",
+      "language": "en"
+    },
+    {
+      "name": "Kubernetes Ingress-Nginx Blog",
+      "url": "https://kubernetes.github.io/ingress-nginx/blog/feed.xml",
+      "language": "en"
+    },
+    {
+      "name": "Prometheus Kubernetes Blog",
+      "url": "https://prometheus.io/blog/feed.xml",
+      "language": "en"
+    },
+    {
+      "name": "Jaeger Tracing for Kubernetes",
+      "url": "https://www.jaegertracing.io/blog/feed.xml",
+      "language": "en"
+    },
+    {
+      "name": "Kubernetes AI/ML Resources",
+      "url": "https://kubeflow.org/blog/feed.xml",
+      "language": "en"
+    },
+    {
+      "name": "Cert-Manager Blog",
+      "url": "https://cert-manager.io/blog/feed.xml",
+      "language": "en"
+    },
+    {
+      "name": "Kubernetes IDE Tools",
+      "url": "https://k8slens.dev/blog/feed.xml",
+      "language": "en"
+    },
+    {
+      "name": "Crossplane Blog",
+      "url": "https://crossplane.io/blog/feed.xml",
+      "language": "en"
+    },
+    {
+      "name": "KubeDB Blog",
+      "url": "https://kubedb.com/blog/feed.xml",
+      "language": "en"
+    },
   ],
   "translation": {
     "service": "google",
