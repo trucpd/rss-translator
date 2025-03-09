@@ -1,15 +1,176 @@
 {
   "feeds": [
     {
-        "name": "Kubernetes Blog",
-        "url": "https://kubernetes.io/feed.xml",
-        "language": "en"
+      "name": "Kubernetes Official Blog",
+      "url": "https://kubernetes.io/feed.xml",
+      "website": "https://kubernetes.io/blog",
+      "rank": 1,
+      "description": "The official blog shares updates, best practices, and case studies directly from the Kubernetes community.",
+      "traffic": "High",
+      "frequency": "7 posts/month",
+      "followers": {
+        "facebook": "21.6K",
+        "twitter": "304.7K"
+      }
+    },
+    {
+      "name": "KubeFeeds",
+      "url": "https://kubefeeds.com",
+      "website": "https://kubefeeds.com",
+      "rank": 2,
+      "description": "An aggregator platform for Kubernetes-related blogs and feeds, simplifying how you stay updated.",
+      "traffic": "Growing rapidly",
+      "frequency": "Varies based on sources"
+    },
+    {
+      "name": "DevOps.com Kubernetes Section",
+      "url": "https://devops.com/feed",
+      "website": "https://devops.com",
+      "rank": 3,
+      "description": "Covers Kubernetes trends, tutorials, and expert opinions within the larger context of DevOps.",
+      "frequency": "4 posts/month"
+    },
+    {
+      "name": "The New Stack Kubernetes",
+      "url": "https://thenewstack.io/feed",
+      "website": "https://thenewstack.io",
+      "rank": 4,
+      "description": "Deep dives into Kubernetes trends, including adoption stories and technical breakdowns.",
+      "frequency": "6 posts/month"
+    },
+    {
+      "name": "Kubernetes Podcast by Google",
+      "url": "https://kubernetespodcast.com/feed",
+      "website": "https://kubernetespodcast.com",
+      "rank": 5,
+      "description": "Weekly discussions on Kubernetes news, interviews with industry leaders, and updates from Google’s Kubernetes team.",
+      "frequency": "4 posts/month"
+    },
+    {
+      "name": "KubeWeekly by CNCF",
+      "url": "https://www.cncf.io/feed/?post_type=lf_kubeweekly",
+      "website": "https://kubeweekly.io",
+      "rank": 6,
+      "description": "A roundup of the most relevant Kubernetes-related news, blogs, and resources.",
+      "frequency": "Weekly"
+    },
+    {
+      "name": "Red Hat Kubernetes Blog",
+      "url": "https://www.redhat.com/en/rss/blog",
+      "website": "https://redhat.com/blog",
+      "rank": 7,
+      "description": "Kubernetes content from Red Hat, focusing on OpenShift and enterprise-grade solutions.",
+      "frequency": "5 posts/month"
+    },
+    {
+      "name": "Collabnix Blog",
+      "url": "https://collabnix.com/category/kubernetes/feed",
+      "website": "https://collabnix.com",
+      "rank": 8,
+      "description": "Insights on Docker, Kubernetes, Cloud-Native and IoT.",
+      "frequency": "10 posts/month"
+    },
+    {
+      "name": "Sysdig Kubernetes Blog",
+      "url": "https://sysdig.com/feed",
+      "website": "https://sysdig.com",
+      "rank": 9,
+      "description": "Offers security and monitoring insights for Kubernetes environments.",
+      "frequency": "4 posts/month"
+    },
+    {
+      "name": "VMware Kubernetes Blog",
+      "url": "https://blogs.vmware.com/management/kubernetes/feed",
+      "website": "https://vmware.com",
+      "rank": 10,
+      "description": "Kubernetes content tailored to VMware’s Tanzu portfolio.",
+      "frequency": "5 posts/month"
+    },
+    {
+      "name": "GitLab Kubernetes Blog",
+      "url": "https://about.gitlab.com/atom.xml",
+      "website": "https://gitlab.com/blog",
+      "rank": 11,
+      "description": "Kubernetes CI/CD pipelines and integration tutorials.",
+      "frequency": "4 posts/month"
+    },
+    {
+      "name": "DigitalOcean Kubernetes Content",
+      "url": "https://www.digitalocean.com/blog.atom",
+      "website": "https://digitalocean.com/blog",
+      "rank": 12,
+      "description": "Guides and use cases for Kubernetes on DigitalOcean.",
+      "frequency": "3 posts/month"
+    },
+    {
+      "name": "Rancher Labs Blog",
+      "url": "https://www.suse.com/c/rancherblog/feed/",
+      "website": "https://rancher.com/blog",
+      "rank": 13,
+      "description": "Kubernetes tips and tricks for Rancher’s multi-cluster platform.",
+      "frequency": "4 posts/month"
+    },
+    {
+      "name": "Mirantis Blog",
+      "url": "https://mirantis.com/blog/feed",
+      "website": "https://mirantis.com/blog",
+      "rank": 14,
+      "description": "Practical advice on Kubernetes deployment and lifecycle management.",
+      "frequency": "2 posts/month"
+    },
+    {
+      "name": "HashiCorp Kubernetes Blog",
+      "url": "https://hashicorp.com/blog/feed",
+      "website": "https://hashicorp.com/blog",
+      "rank": 15,
+      "description": "Kubernetes automation using tools like Terraform and Vault.",
+      "frequency": "3 posts/month"
+    },
+    {
+      "name": "Helm Blog",
+      "url": "https://helm.sh/blog/feed",
+      "website": "https://helm.sh/blog",
+      "rank": 16,
+      "description": "Stay updated on Helm’s Kubernetes package management solutions.",
+      "frequency": "2 posts/month"
+    },
+    {
+      "name": "Stack Overflow Kubernetes Questions",
+      "url": "https://stackoverflow.com/questions/tagged/kubernetes/feed",
+      "website": "https://stackoverflow.com",
+      "rank": 17,
+      "description": "A community-driven feed with solutions to Kubernetes problems.",
+      "frequency": "Daily updates"
+    },
+    {
+      "name": "OpenShift Blog by Red Hat",
+      "url": "https://openshift.com/blog/feed",
+      "website": "https://openshift.com/blog",
+      "rank": 18,
+      "description": "Kubernetes topics centered around OpenShift’s enterprise offerings.",
+      "frequency": "6 posts/month"
+    },
+    {
+      "name": "CNCF Blog",
+      "url": "https://cncf.io/blog/feed",
+      "website": "https://cncf.io/blog",
+      "rank": 19,
+      "description": "Updates and thought leadership from the Cloud Native Computing Foundation.",
+      "frequency": "5 posts/month"
+    },
+    {
+      "name": "Medium’s Kubernetes Tag",
+      "url": "https://medium.com/tag/kubernetes/feed",
+      "website": "https://medium.com",
+      "rank": 20,
+      "description": "Articles from independent developers and organizations on Kubernetes topics.",
+      "frequency": "10+ posts/month"
     }
   ],
   "translation": {
-    "service": "google", 
+    "service": "google",
     "target_language": "en",
-    "openai_api_key": "", 
+    "openai_api_key": "",
     "fields_to_translate": ["title", "summary"]
   }
 }
