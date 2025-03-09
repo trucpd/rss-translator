@@ -524,6 +524,51 @@
       "name": "KubeDB Blog",
       "url": "https://kubedb.com/blog/feed.xml",
       "language": "en"
+    },
+     {
+      "name": "Chaos Mesh Blog",
+      "url": "https://chaos-mesh.org/blog/rss.xml",
+      "language": "en"
+    },
+    {
+      "name": "Weave Net Blog",
+      "url": "https://www.weave.works/blog/tag/kubernetes/feed/",
+      "language": "en"
+    },
+    {
+      "name": "Multus CNI Blog",
+      "url": "https://github.com/k8snetworkplumbingwg/multus-cni/releases.atom",
+      "language": "en"
+    },
+    {
+      "name": "Flannel CNI Blog",
+      "url": "https://github.com/flannel-io/flannel/releases.atom",
+      "language": "en"
+    },
+    {
+      "name": "Kube-OVN Blog",
+      "url": "https://github.com/kubeovn/kube-ovn/releases.atom",
+      "language": "en"
+    },
+    {
+      "name": "Antrea CNI Blog",
+      "url": "https://antrea.io/blog/rss.xml",
+      "language": "en"
+    },
+    {
+      "name": "Submariner Blog",
+      "url": "https://submariner.io/blog/rss.xml",
+      "language": "en"
+    },
+    {
+      "name": "Kube-router Blog",
+      "url": "https://github.com/cloudnativelabs/kube-router/releases.atom",
+      "language": "en"
+    },
+    {
+      "name": "Calico on EKS Blog",
+      "url": "https://aws.amazon.com/blogs/containers/tag/calico/feed/",
+      "language": "en"
     }
   ],
   "translation": {
