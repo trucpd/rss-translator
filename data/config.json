@@ -99,6 +99,286 @@
       "name": "Medium’s Kubernetes Tag",
       "url": "https://medium.com/tag/kubernetes/feed",
       "language": "en"
+    },
+    {
+      "name": "Elastic Kubernetes Blog",
+      "url": "https://www.elastic.co/blog/rss.xml",
+      "language": "en"
+    },
+    {
+      "name": "KubeVirt Blog",
+      "url": "https://kubevirt.io/feed.xml",
+      "language": "en"
+    },
+    {
+      "name": "ArgoCD Blog",
+      "url": "https://blog.argoproj.io/rss",
+      "language": "en"
+    },
+    {
+      "name": "Flux CD Blog",
+      "url": "https://fluxcd.io/blog/rss.xml",
+      "language": "en"
+    },
+    {
+      "name": "Linkerd Blog",
+      "url": "https://buoyant.io/blog/rss/",
+      "language": "en"
+    },
+    {
+      "name": "Istio Blog",
+      "url": "https://istio.io/feed.xml",
+      "language": "en"
+    },
+    {
+      "name": "Cilium Blog",
+      "url": "https://cilium.io/blog/index.xml",
+      "language": "en"
+    },
+    {
+      "name": "MetalLB Blog",
+      "url": "https://metallb.universe.tf/rss.xml",
+      "language": "en"
+    },
+    {
+      "name": "Banzai Cloud Blog",
+      "url": "https://banzaicloud.com/rss/",
+      "language": "en"
+    },
+    {
+      "name": "Contour Blog",
+      "url": "https://projectcontour.io/blog/rss.xml",
+      "language": "en"
+    },
+    {
+      "name": "KubeVela Blog",
+      "url": "https://kubevela.io/blog/rss.xml",
+      "language": "en"
+    },
+    {
+      "name": "Dapr Blog",
+      "url": "https://blog.dapr.io/feed.xml",
+      "language": "en"
+    },
+    {
+      "name": "Spinnaker Blog",
+      "url": "https://blog.spinnaker.io/feed.xml",
+      "language": "en"
+    },
+    {
+      "name": "K3s Blog",
+      "url": "https://k3s.io/feed.xml",
+      "language": "en"
+    },
+    {
+      "name": "Harbor Blog",
+      "url": "https://goharbor.io/blog/rss.xml",
+      "language": "en"
+    },
+    {
+      "name": "Longhorn Blog",
+      "url": "https://longhorn.io/blog/rss.xml",
+      "language": "en"
+    },
+    {
+      "name": "Rook Blog",
+      "url": "https://rook.io/blog/rss.xml",
+      "language": "en"
+    },
+    {
+      "name": "Velero Blog",
+      "url": "https://velero.io/blog/rss.xml",
+      "language": "en"
+    },
+    {
+      "name": "KServe Blog",
+      "url": "https://kserve.github.io/blog/rss.xml",
+      "language": "en"
+    },
+    {
+      "name": "GKE (Google Kubernetes Engine) Blog",
+      "url": "https://cloud.google.com/blog/topics/containers/rss.xml",
+      "language": "en"
+    },
+    {
+      "name": "Aqua Security Blog",
+      "url": "https://www.aquasec.com/blog/feed/",
+      "language": "en"
+    },
+    {
+      "name": "Dev.to Kubernetes",
+      "url": "https://dev.to/feed/kubernetes",
+      "language": "en"
+    },
+    {
+      "name": "Cloud Academy Blog",
+      "url": "https://cloudacademy.com/blog/feed/",
+      "language": "en"
+    },
+    {
+      "name": "SUSE Containers & Kubernetes",
+      "url": "https://www.suse.com/c/blog/category/containers-kubernetes/feed/",
+      "language": "en"
+    },
+    {
+      "name": "Packet Pushers - Kubernetes",
+      "url": "https://packetpushers.net/kubernetes/feed/",
+      "language": "en"
+    },
+    {
+      "name": "Kubernetes Security by Palo Alto Networks",
+      "url": "https://unit42.paloaltonetworks.com/tag/kubernetes/feed/",
+      "language": "en"
+    },
+    {
+      "name": "Security Boulevard Kubernetes",
+      "url": "https://securityboulevard.com/tag/kubernetes/feed/",
+      "language": "en"
+    },
+    {
+      "name": "Kubernetes Learning Path",
+      "url": "https://kubernetes-learning-path.com/rss.xml",
+      "language": "en"
+    },
+    {
+      "name": "Bitnami Kubernetes Blog",
+      "url": "https://bitnami.com/blog/categories/kubernetes/feed.xml",
+      "language": "en"
+    },
+    {
+      "name": "Grafana Labs Blog",
+      "url": "https://grafana.com/blog/rss.xml",
+      "language": "en"
+    },
+    {
+      "name": "Datadog Blog - Kubernetes",
+      "url": "https://www.datadoghq.com/blog/tags/kubernetes/rss/",
+      "language": "en"
+    },
+    {
+      "name": "K9s CLI Blog",
+      "url": "https://k9scli.io/feed.xml",
+      "language": "en"
+    },
+    {
+      "name": "Knative Blog",
+      "url": "https://knative.dev/blog/feed.xml",
+      "language": "en"
+    },
+    {
+      "name": "VMblog Kubernetes",
+      "url": "https://vmblog.com/rss.aspx?TagID=95",
+      "language": "en"
+    },
+    {
+      "name": "Golang Kubernetes Blogs",
+      "url": "https://golangnews.org/t/kubernetes.rss",
+      "language": "en"
+    },
+    {
+      "name": "CNCF Ambassador Blog",
+      "url": "https://www.cncf.io/ambassador-blog/rss/",
+      "language": "en"
+    },
+    {
+      "name": "Dagger Blog",
+      "url": "https://dagger.io/blog/rss.xml",
+      "language": "en"
+    },
+    {
+      "name": "Cloud Native London",
+      "url": "https://cloudnativelondon.com/blog/rss.xml",
+      "language": "en"
+    },
+    {
+      "name": "Metal3 Kubernetes Blog",
+      "url": "https://metal3.io/blog/rss.xml",
+      "language": "en"
+    },
+    {
+      "name": "KEDA (Kubernetes Event-driven Autoscaling) Blog",
+      "url": "https://keda.sh/blog/index.xml",
+      "language": "en"
+    },
+    {
+      "name": "Spinnaker Blog",
+      "url": "https://spinnaker.io/blog/rss.xml",
+      "language": "en"
+    },
+    {
+      "name": "Tekton Blog",
+      "url": "https://tekton.dev/blog/rss.xml",
+      "language": "en"
+    },
+    {
+      "name": "Jenkins X Blog",
+      "url": "https://jenkins-x.io/blog/rss.xml",
+      "language": "en"
+    },
+    {
+      "name": "LitmusChaos Blog",
+      "url": "https://litmuschaos.io/blog/rss.xml",
+      "language": "en"
+    },
+    {
+      "name": "KubeCon + CloudNativeCon Blog",
+      "url": "https://events.linuxfoundation.org/kubecon-cloudnativecon/blog/feed/",
+      "language": "en"
+    },
+    {
+      "name": "Cilium Blog",
+      "url": "https://cilium.io/blog/rss.xml",
+      "language": "en"
+    },
+    {
+      "name": "eBPF Blog",
+      "url": "https://ebpf.io/blog/rss.xml",
+      "language": "en"
+    },
+    {
+      "name": "Calico Blog",
+      "url": "https://projectcalico.org/feed/",
+      "language": "en"
+    },
+    {
+      "name": "HNC (Hierarchical Namespace Controller) Blog",
+      "url": "https://hnc.dev/blog/rss.xml",
+      "language": "en"
+    },
+    {
+      "name": "K8s Gateway API Blog",
+      "url": "https://gateway-api.sigs.k8s.io/blog/rss.xml",
+      "language": "en"
+    },
+    {
+      "name": "Trivy Security Blog",
+      "url": "https://aquasecurity.github.io/trivy-blog/rss.xml",
+      "language": "en"
+    },
+    {
+      "name": "Argo Rollouts Blog",
+      "url": "https://argo-rollouts.dev/blog/rss.xml",
+      "language": "en"
+    },
+    {
+      "name": "Longhorn Blog",
+      "url": "https://longhorn.io/blog/rss.xml",
+      "language": "en"
+    },
+    {
+      "name": "Harbor Blog",
+      "url": "https://goharbor.io/blog/rss.xml",
+      "language": "en"
+    },
+    {
+      "name": "Kyverno Blog",
+      "url": "https://kyverno.io/blog/rss.xml",
+      "language": "en"
+    },
+    {
+      "name": "OPA (Open Policy Agent) Blog",
+      "url": "https://www.openpolicyagent.org/blog/rss.xml",
+      "language": "en"
     }
   ],
   "translation": {
