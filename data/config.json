@@ -1,6 +1,21 @@
 {
   "feeds": [
     {
+        "name": "ionir Blog",
+        "url": "https://www.ionir.com/blog/rss.xml",
+        "language": "en"
+    },
+    {
+        "name": "Ivan Velichko - Kubernetes",
+        "url": "https://iximiuz.com/en/tags/kubernetes/rss/",
+        "language": "en"
+    },
+    {
+        "name": "Container Solutions - Kubernetes",
+        "url": "https://blog.container-solutions.com/tag/kubernetes/rss.xml",
+        "language": "en"
+     },
+    {
       "name": "Kubernetes Official Blog",
       "url": "https://kubernetes.io/feed.xml",
       "language": "en"
